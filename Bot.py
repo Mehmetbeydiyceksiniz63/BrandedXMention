@@ -42,7 +42,7 @@ async def start(event):
         buttons=[
             [Button.url("❤️‍🔥 beni grubuna ekle 💫", "https://t.me/Kumsaletiketbot?startgroup=true")],
             [Button.url("❤️‍🔥 müzik botu💫", "https://t.me/kumsalmuzikbot"), Button.url("❤️‍🔥 SAHİBİ 💫", "https://t.me/RAGNARbeyy")],
-            [Button.url("❤️‍🔥 destek grubu 💫", "https://t.me/https://t.me/masaldestek"), Button.url("❤️‍🔥 yönetim botu❤️‍🔥", "https://t.me/uyuyanprensesinki_bot")]
+            [Button.url("❤️‍🔥 destek grubu 💫", "https://t.me/masaldestek"), Button.url("❤️‍🔥 yönetim botu❤️‍🔥", "https://t.me/uyuyanprensesinki_bot")]
         ]
     )
 
