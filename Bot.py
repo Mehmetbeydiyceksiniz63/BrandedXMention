@@ -41,7 +41,7 @@ async def start(event):
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 beni grubuna ekle 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 müzik botu💫", "https://t.me/kumsalmuzikbot"), Button.url("❤️‍🔥 geliştirici 💫", "https://t.me/Mehmettbeydiyeceksinizz")],
+            [Button.url("❤️‍🔥 müzik botu💫", "https://t.me/kumsalmuzikbot"), Button.url("❤️‍🔥 SAHİBİ 💫", "https://github.com/RAGNARbeyy")],
             [Button.url("❤️‍🔥 destek grubu 💫", "https://t.me/https://t.me/masaldestek"), Button.url("❤️‍🔥 SAHİBİ ❤️‍🔥", "https://t.me/RAGNARbeyy")]
         ]
     )
