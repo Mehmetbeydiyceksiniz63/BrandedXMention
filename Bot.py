@@ -35,7 +35,7 @@ async def start(event):
         return await event.respond("Hayattayım 🥺")
     
     await event.client.send_file(
-        event.chat_id,
+        event.chat_id,"
         https://te.legra.ph/file/c51f9d5400b4d1e2dce09.jpg",
         caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\nben kumsal'ım telgrafta tüm grup üyelerinden bahsedeceğim\nrun'u kullandığınız için teşekkürler /help..\n\n┏━━━━━━━━━━━━━━━━━┓\ngeliştirici    : [ben kumsal](http://t.me/Kumsaltaggerbot)\n destek grubu › : [kumsal destek](https://t.me/masaldestek)┓\n yazılımcı › : [mehmet bey](https://t.me/Mehmettbeydiyeceksinizz)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 herhangi bir sorunuz varsa o zaman\n bana ulaşın [sahibi](https://t.me/RAGNARbeyy) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
