@@ -40,9 +40,9 @@ async def start(event):
         caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\nben kumsal'ım telgrafta tüm grup üyelerinden bahsedeceğim\n. /help komutunu kullarak komutları oğrenebilirsinis..\n\n┏━━━━━━━━━━━━━━━━━┓\n SAHİBİ🍃    : [rangar bey](http://t.me/RAGNARbeyy)\n yazılımcı 1 › : [zeytin hanım](https://t.me/Expfedai)┓\n yazılımcı 2› : [mehmet bey](https://t.me/Mehmettbeydiyeceksinizz)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 herhangi bir sorunuz varsa o zaman\n bana ulaşın [sahibi](https://t.me/RAGNARbeyy) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
-            [Button.url("❤️‍🔥 beni grubuna ekle 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 müzik botu💫", "https://t.me/kumsalmuzikbot"), Button.url("❤️‍🔥 SAHİBİ 💫", "https://github.com/RAGNARbeyy")],
-            [Button.url("❤️‍🔥 destek grubu 💫", "https://t.me/https://t.me/masaldestek"), Button.url("❤️‍🔥 SAHİBİ ❤️‍🔥", "https://t.me/RAGNARbeyy")]
+            [Button.url("❤️‍🔥 beni grubuna ekle 💫", "https://t.me/Kumsaletiketbot?startgroup=true")],
+            [Button.url("❤️‍🔥 müzik botu💫", "https://t.me/kumsalmuzikbot"), Button.url("❤️‍🔥 SAHİBİ 💫", "https://t.me/RAGNARbeyy")],
+            [Button.url("❤️‍🔥 destek grubu 💫", "https://t.me/https://t.me/masaldestek"), Button.url("❤️‍🔥 yönetim botu❤️‍🔥", "https://t.me/uyuyanprensesinki_bot")]
         ]
     )
 
