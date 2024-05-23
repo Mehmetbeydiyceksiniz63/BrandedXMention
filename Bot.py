@@ -36,8 +36,8 @@ async def start(event):
     
     await event.client.send_file(
         event.chat_id,
-        file="https://te.legra.ph/file/c51f9d5400b4d1e2dce09.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\nben kumsal'ım telgrafta tüm grup üyelerinden bahsedeceğim\nrun'u kullandığınız için teşekkürler /help..\n\n┏━━━━━━━━━━━━━━━━━┓\ngeliştirici    : [ben kumsal](http://t.me/Kumsaltaggerbot)\n destek grubu › : [kumsal destek](https://t.me/masaldestek)┓\n yazılımcı › : [mehmet bey](https://t.me/Mehmettbeydiyeceksinizz)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 herhangi bir sorunuz varsa o zaman\n bana ulaşın [sahibi](https://t.me/RAGNARbeyy) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        file="https://graph.org/file/6c7f4daee043fd1f0347b.jpg",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\nben kumsal'ım telgrafta tüm grup üyelerinden bahsedeceğim\n. /help komutunu kullarak komutları oğrenebilirsinis..\n\n┏━━━━━━━━━━━━━━━━━┓\n SAHİBİ🍃    : [rangar bey](http://t.me/RAGNARbeyy)\n yazılımcı 1 › : [zeytin hanım](https://t.me/Expfedai)┓\n yazılımcı 2› : [mehmet bey](https://t.me/Mehmettbeydiyeceksinizz)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 herhangi bir sorunuz varsa o zaman\n bana ulaşın [sahibi](https://t.me/RAGNARbeyy) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 beni grubuna ekle 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
